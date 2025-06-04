@@ -4,13 +4,23 @@ from playwright.sync_api import sync_playwright
 import smtplib
 from email.message import EmailMessage
 
-# Load environment variables from .env file
+# === Load and Validate Environment ===
 load_dotenv()
+
+REQUIRED_VARS = ["BSE_USERNAME", "BSE_PASSWORD", "EMAIL", "EMAIL_PASSWORD", "TO_EMAIL"]
+for var in REQUIRED_VARS:
+    if not os.getenv(var):
+        raise ValueError(f"Missing required environment variable: {var}")
+
 USERNAME = os.getenv("BSE_USERNAME")
 PASSWORD = os.getenv("BSE_PASSWORD")
 EMAIL = os.getenv("EMAIL")
 EMAIL_PASSWORD = os.getenv("EMAIL_PASSWORD")
-TO_EMAIL = os.getenv("TO_EMAIL")
+
+# Handle multiple recipients
+TO_EMAILS = [email.strip() for email in os.getenv("TO_EMAIL", "").split(",") if email.strip()]
+if not TO_EMAILS:
+    raise ValueError("No valid recipient email(s) found in TO_EMAIL.")
 
 WATCHLIST = {
     "Angel One Ltd": "https://www.bseindia.com/stock-share-price/angel-one-ltd/angelone/543235/corp-announcements/",
@@ -19,6 +29,7 @@ WATCHLIST = {
 
 LAST_SENT_FILE = "last_sent_announcements.txt"
 
+# === File Utilities ===
 def load_last_sent():
     if not os.path.exists(LAST_SENT_FILE):
         return set()
@@ -30,22 +41,22 @@ def save_last_sent(new_announcements):
         for item in new_announcements:
             f.write(item + "\n")
 
+# === Email Sender ===
 def send_email(subject, plain_body, html_body):
-    recipients = [email.strip() for email in TO_EMAIL.split(",")]
-
     msg = EmailMessage()
     msg["Subject"] = subject
     msg["From"] = EMAIL
-    msg["To"] = ", ".join(recipients)
+    msg["To"] = ", ".join(TO_EMAILS)
     msg.set_content(plain_body)
     msg.add_alternative(html_body, subtype="html")
 
     with smtplib.SMTP_SSL("smtp.gmail.com", 465) as smtp:
         smtp.login(EMAIL, EMAIL_PASSWORD)
         smtp.send_message(msg)
-    print(f"[✅] Email sent to both emails")
-    # print(f"[✅] Email sent to {recipients}")
+    print(f"[✅] Email sent to {len(TO_EMAILS)} recipient(s).")
 
+
+# === Announcement Scraper ===
 def fetch_announcements():
     announcements = []
 
@@ -79,7 +90,7 @@ def fetch_announcements():
                 page.wait_for_timeout(3000)
 
                 links = page.query_selector_all("div:has-text('Announcements') + div a")
-                for link in links[:3]:  # Top 3 per company
+                for link in links[:3]:
                     text = link.inner_text().strip()
                     announcements.append({
                         "company": company_name,
@@ -96,7 +107,7 @@ def fetch_announcements():
 
     return announcements
 
-# Main Execution
+# === Main ===
 if __name__ == "__main__":
     results = fetch_announcements()
     last_sent = load_last_sent()

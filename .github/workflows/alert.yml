@@ -2,15 +2,15 @@ name: SEBI-BSE Alert Monitor
 
 on:
   schedule:
-    - cron: "*/5 * * * *"  # every 5 minutes
-  workflow_dispatch:       # allows manual run
+    - cron: "*/5 * * * *"  # Every 5 minutes
+  workflow_dispatch:       # Allow manual runs
 
 jobs:
   run-alert-check:
     runs-on: ubuntu-latest
 
     steps:
-      - name: 📥 Checkout repo
+      - name: 📥 Checkout repository
         uses: actions/checkout@v4
 
       - name: 🐍 Set up Python
@@ -24,7 +24,7 @@ jobs:
           pip install -r requirements.txt
           python -m playwright install --with-deps
 
-      - name: 🚀 Run alert script
+      - name: 🚀 Run SEBI and BSE alert scripts
         env:
           EMAIL: ${{ secrets.EMAIL }}
           EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
@@ -32,11 +32,13 @@ jobs:
           BSE_USERNAME: ${{ secrets.BSE_USERNAME }}
           BSE_PASSWORD: ${{ secrets.BSE_PASSWORD }}
           BSE_STOCKS: ${{ secrets.BSE_STOCKS }}
-        run: python main.py
+        run: |
+          python sebi_alert.py
+          python bse_alert.py
 
-      - name: 📤 Commit updated tracker files if changed
+      - name: 📤 Commit tracker files if updated
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add last_seen_sebi.txt last_sent_announcements.txt
+          git add last_seen_sebi.txt last_sent_announcements.txt || true
           git diff --cached --quiet || (git commit -m "🔁 Auto-update SEBI/BSE last seen files" && git push)

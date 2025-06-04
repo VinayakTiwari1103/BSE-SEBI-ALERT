@@ -9,34 +9,34 @@ load_dotenv()
 
 EMAIL = os.getenv("EMAIL")
 EMAIL_PASSWORD = os.getenv("EMAIL_PASSWORD")
-TO_EMAILS = [email.strip() for email in os.getenv("TO_EMAILS", "").split(",") if email.strip()]
+TO_EMAILS = [email.strip() for email in os.getenv("TO_EMAIL", "").split(",") if email.strip()]
 LAST_FILE = "last_seen_sebi.txt"
 
+# === File Handling ===
 def load_last():
     if not os.path.exists(LAST_FILE):
         return set()
     with open(LAST_FILE, "r", encoding="utf-8") as f:
-        return set(line.strip() for line in f.readlines())
+        return set(line.strip() for line in f)
 
 def save_last(items):
     with open(LAST_FILE, "a", encoding="utf-8") as f:
         for item in items:
             f.write(item + "\n")
 
+# === Email Sending ===
 def send_email(subject, items):
     if not TO_EMAILS:
-        raise ValueError("No valid recipient email(s) found in TO_EMAILS.")
+        raise ValueError("No valid recipient email(s) found in TO_EMAIL.")
 
     msg = EmailMessage()
     msg["Subject"] = subject
     msg["From"] = EMAIL
     msg["To"] = ", ".join(TO_EMAILS)
 
-    # Plain text fallback
     plain_body = "\n\n".join(f"{date} - {title}\n{link}" for date, title, link in items)
     msg.set_content(plain_body)
 
-    # HTML version
     html_body = "<h2>📢 New SEBI Circulars</h2><ul>"
     for date, title, link in items:
         html_body += f"<li><b>{date}</b>: <a href='{link}'>{title}</a></li>"
@@ -46,8 +46,10 @@ def send_email(subject, items):
     with smtplib.SMTP_SSL("smtp.gmail.com", 465) as smtp:
         smtp.login(EMAIL, EMAIL_PASSWORD)
         smtp.send_message(msg)
-    print("[✅] Email sent.")
 
+    print(f"[✅] Email sent to {len(TO_EMAILS)} recipient(s).")
+
+# === Web Scraper ===
 def fetch_sebi_circulars():
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
@@ -55,7 +57,7 @@ def fetch_sebi_circulars():
         page.goto("https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=1&ssid=7&smid=0", timeout=60000)
         page.wait_for_timeout(3000)
 
-        rows = page.query_selector_all("table tr")[1:4]  # Skip header, get top 3
+        rows = page.query_selector_all("table tr")[1:4]  # Top 3 circulars
         circulars = []
 
         for row in rows:
