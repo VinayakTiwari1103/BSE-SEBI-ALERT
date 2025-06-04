@@ -6,3 +6,4 @@ ICICI Securities Ltd::Mar 17, 14:57 - ICICI Securities Ltd : Alteration Of Capit
 ICICI Securities Ltd::Mar 17, 14:57 - ICICI Securities Ltd : Alteration Of Capital and Fund Raising-XBRL
 ICICI Securities Ltd::Mar 17, 14:43 - ICICI Securities Ltd : ICICI Securities Ltd - 541179 - Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS
 Angel One Ltd::Jun 04, 19:38 - Angel One Ltd : Angel One Ltd - 543235 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation
+Angel One Ltd::Jun 04, 19:57 - Angel One Ltd : Analysts/Institutional Investor Meet/Con. Call Updates
