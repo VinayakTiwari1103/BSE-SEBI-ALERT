@@ -33,8 +33,8 @@ jobs:
           BSE_PASSWORD: ${{ secrets.BSE_PASSWORD }}
           BSE_STOCKS: ${{ secrets.BSE_STOCKS }}
         run: |
-          python sebi_alert.py
-          python bse_alert.py
+          python sebi.py
+          python main.py
 
       - name: 📤 Commit updated tracker files if changed
         run: |
