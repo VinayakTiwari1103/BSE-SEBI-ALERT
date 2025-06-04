@@ -1,6 +1,1 @@
-Angel One Ltd::Jun 04, 13:08 - Angel One Ltd : ESOP/ESOS/ESPS
-Angel One Ltd::Jun 04, 12:51 - Angel One Ltd : Angel One Ltd - 543235 - Intimation Of Grant Of Options Under Angel Broking Employee Long Term Incentive Plan 2021
-Angel One Ltd::May 28, 17:38 - Angel One Ltd : Angel One Ltd - 543235 - Intimation Of Withdrawal Of Application Under Regulation 31A Of The SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015, From Reclassification Of Persons Forming Part Of \'Promoter/Promoter Group\' Category To \'Public\' Category.
-ICICI Securities Ltd::Mar 17, 14:57 - ICICI Securities Ltd : Alteration Of Capital and Fund Raising-XBRL
-ICICI Securities Ltd::Mar 17, 14:57 - ICICI Securities Ltd : Alteration Of Capital and Fund Raising-XBRL
-ICICI Securities Ltd::Mar 17, 14:43 - ICICI Securities Ltd : ICICI Securities Ltd - 541179 - Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS
+
