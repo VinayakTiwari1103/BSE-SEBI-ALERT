@@ -2,7 +2,7 @@ name: SEBI-BSE Alert Monitor
 
 on:
   schedule:
-    - cron: "*/30 * * * *"  # Every 30 minutes
+    - cron: "*/30 1-15 * * *"  # Every 30 mins from 07:00 to 21:00 IST, all days
   workflow_dispatch:
 
 jobs:
@@ -12,6 +12,22 @@ jobs:
     steps:
       - name: 📥 Checkout repository
         uses: actions/checkout@v4
+
+      - name: 💾 Cache Python dependencies
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      - name: 💾 Cache Playwright browsers
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: ${{ runner.os }}-playwright-browsers
+          restore-keys: |
+            ${{ runner.os }}-playwright-
 
       - name: 🐍 Set up Python 3.11
         uses: actions/setup-python@v5
@@ -28,7 +44,7 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           name: alert-tracker
-        continue-on-error: true  # No error if artifact doesn't exist yet
+        continue-on-error: true
 
       - name: 🚀 Run SEBI and BSE alert scripts
         env:
