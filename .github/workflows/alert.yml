@@ -2,7 +2,7 @@ name: SEBI-BSE Alert Monitor
 
 on:
   schedule:
-    - cron: "*/30 1-15 * * *"  # Every 30 mins from 07:00 to 21:00 IST, all days
+    - cron: "28 3 * * *"  # Every day at 8:58 AM IST
   workflow_dispatch:
 
 jobs:
@@ -12,22 +12,6 @@ jobs:
     steps:
       - name: 📥 Checkout repository
         uses: actions/checkout@v4
-
-      - name: 💾 Cache Python dependencies
-        uses: actions/cache@v4
-        with:
-          path: ~/.cache/pip
-          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
-          restore-keys: |
-            ${{ runner.os }}-pip-
-
-      - name: 💾 Cache Playwright browsers
-        uses: actions/cache@v4
-        with:
-          path: ~/.cache/ms-playwright
-          key: ${{ runner.os }}-playwright-browsers
-          restore-keys: |
-            ${{ runner.os }}-playwright-
 
       - name: 🐍 Set up Python 3.11
         uses: actions/setup-python@v5
@@ -39,12 +23,6 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
           python -m playwright install --with-deps
-
-      - name: 🔁 Restore tracker state from previous run
-        uses: actions/download-artifact@v4
-        with:
-          name: alert-tracker
-        continue-on-error: true
 
       - name: 🚀 Run SEBI and BSE alert scripts
         env:
@@ -58,11 +36,14 @@ jobs:
           python sebi.py
           python main.py
 
-      - name: 💾 Save tracker state for next run
-        uses: actions/upload-artifact@v4
-        with:
-          name: alert-tracker
-          path: |
-            last_seen_sebi.txt
-            last_sent_announcements.txt
-          retention-days: 1
+      - name: 📤 Commit updated tracker files if changed
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add last_seen_sebi.txt last_sent_announcements.txt || true
+          git diff --cached --quiet || (
+            git commit -m "🔁 Auto-update SEBI/BSE last seen files" &&
+            git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git HEAD:main
+          )
