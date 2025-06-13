@@ -4,3 +4,6 @@ Jun 05, 2025::Limited relaxation from compliance with certain provisions of the 
 Jun 03, 2025::Margin obligations to be given by way of Pledge/Re-pledge in the Depository System
 Jun 06, 2025::Extension of timeline of additional liquidation period for VCFs migrating to SEBI (Alternative Investment Funds) Regulations, 2012
 Jun 11, 2025::Adoption of Standardised, Validated and Exclusive UPI IDs for Payment Collection by SEBI Registered Intermediaries from Investors
+Jun 12, 2025::Investor Charter Infrastructure Investment Trusts (InvITs)
+Jun 12, 2025::Investor Charter Real Estate Investment Trusts (REITs)
+Jun 12, 2025::Review of provisions relating to Product Advisory Committee (PAC)
