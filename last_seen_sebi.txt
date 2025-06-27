@@ -7,3 +7,5 @@ Jun 11, 2025::Adoption of Standardised, Validated and Exclusive UPI IDs for Paym
 Jun 12, 2025::Investor Charter Infrastructure Investment Trusts (InvITs)
 Jun 12, 2025::Investor Charter Real Estate Investment Trusts (REITs)
 Jun 12, 2025::Review of provisions relating to Product Advisory Committee (PAC)
+Jun 26, 2025::Industry Standards on “Minimum information to be provided to the Audit Committee and Shareholders for approval of Related Party Transactions”
+Jun 26, 2025::Timelines for rebalancing of portfolios of mutual fund schemes in cases of all passive breaches
