@@ -33,3 +33,6 @@ Angel One Ltd::Jul 16, 20:14 - Angel One Ltd : Angel One Ltd - 543235 - Announce
 Angel One Ltd::Jul 17, 20:52 - Angel One Ltd : Analysts/Institutional Investor Meet/Con. Call Updates
 Angel One Ltd::Jul 17, 20:47 - Angel One Ltd : Angel One Ltd - 543235 - Announcement under Regulation 30 (LODR)-Earnings Call Transcript
 Angel One Ltd::Jul 17, 11:19 - Angel One Ltd : Copy of Newspaper Publication
+Angel One Ltd::Jul 23, 17:55 - Angel One Ltd : Angel One Ltd - 543235 - Announcement under Regulation 30 (LODR)-Earnings Call Transcript
+Angel One Ltd::Jul 23, 17:50 - Angel One Ltd : Analysts/Institutional Investor Meet/Con. Call Updates
+Angel One Ltd::Jul 23, 17:39 - Angel One Ltd : Press Release
