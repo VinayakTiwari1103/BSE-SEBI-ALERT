@@ -12,3 +12,6 @@ Jun 26, 2025::Timelines for rebalancing of portfolios of mutual fund schemes in 
 Jun 30, 2025::Extension towards Adoption and Implementation of Cybersecurity and Cyber Resilience Framework (CSCRF) for SEBI Regulated Entities (REs)
 Jul 02, 2025::Ease of Doing Investment - Special Window for Re-lodgement of Transfer Requests of Physical Shares
 Jul 23, 2025::Frequently Asked Questions (FAQs) related to regulatory provisions for Research Analysts
+Jul 29, 2025::Operational Efficiency in Monitoring of Non-Resident Indians (NRIs) Position Limits in Exchange Traded Derivatives Contracts - Ease of Doing Investment
+Jul 29, 2025::Extension of timeline for implementation of SEBI Circular SEBI/HO/MIRSD/MIRSD-PoD/P/CIR/2025/0000013 dated February 04, 2025
+Jul 29, 2025::Monitoring of Minimum Investment Threshold under Specialized Investment Funds (SIF)
