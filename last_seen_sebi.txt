@@ -23,3 +23,4 @@ Aug 08, 2025::Transaction charges paid to Mutual Fund Distributors
 Aug 08, 2025::Review of Framework for conversion of Private Listed InvIT into Public InvIT
 Aug 12, 2025::Use of liquid mutual funds and overnight mutual funds for compliance with deposit requirement by Investment Advisers and Research Analysts
 Aug 18, 2025::Extension of timeline for implementation of SEBI Circular ‘Margin obligations to be given by way of pledge/Re-pledge in the Depository System’ dated June 03, 2025
+Aug 26, 2025::Relaxation in the timeline to submit net worth certificate by the Stock Brokers to offer margin trading facility to their clients
