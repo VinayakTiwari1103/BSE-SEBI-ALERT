@@ -26,3 +26,4 @@ Aug 18, 2025::Extension of timeline for implementation of SEBI Circular ‘Margi
 Aug 26, 2025::Relaxation in the timeline to submit net worth certificate by the Stock Brokers to offer margin trading facility to their clients
 Aug 28, 2025::Technical Clarifications to Cybersecurity and Cyber Resilience Framework (CSCRF) for SEBI Regulated Entities (REs)
 Aug 29, 2025::Extension of timelines and Update of reporting authority for IAs and RAs w.r.t. SEBI Circular for Compliance to Digital Accessibility Circular ‘Rights of Persons with Disabilities Act, 2016 and rules made thereunder- mandatory compliance by all Regulated Entities’ dated July 31, 2025 (Circular No. SEBI/HO/ITD-1/ITD_VIAP/P/CIR/2025/111)
+Sep 01, 2025::Framework for Intraday Position Limits Monitoring for Equity Index Derivatives
