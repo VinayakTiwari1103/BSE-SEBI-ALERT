@@ -28,3 +28,5 @@ Aug 28, 2025::Technical Clarifications to Cybersecurity and Cyber Resilience Fra
 Aug 29, 2025::Extension of timelines and Update of reporting authority for IAs and RAs w.r.t. SEBI Circular for Compliance to Digital Accessibility Circular ‘Rights of Persons with Disabilities Act, 2016 and rules made thereunder- mandatory compliance by all Regulated Entities’ dated July 31, 2025 (Circular No. SEBI/HO/ITD-1/ITD_VIAP/P/CIR/2025/111)
 Sep 01, 2025::Framework for Intraday Position Limits Monitoring for Equity Index Derivatives
 Sep 05, 2025::Streamlining of the process for surrender of (Know Your Client) Registration Agency (KRA) registration
+Sep 09, 2025::Framework for AIFs to make co-investment within the AIF structure under SEBI (Alternative Investment Funds) Regulations, 2012
+Sep 09, 2025::Format of Disclosure Document for Portfolio Managers
