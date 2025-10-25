@@ -39,3 +39,4 @@ Sep 30, 2025::Extension of timeline for implementation of SEBI Circular dated Fe
 Oct 08, 2025::Review of Block Deal Framework
 Oct 13, 2025::Minimum information to be provided to the Audit Committee and Shareholders for approval of Related Party Transactions
 Oct 15, 2025::Relaxation in timeline for disclosure of allocation methodology by Angel Funds
+Oct 24, 2025::Transfer of portfolios of clients (PMS business) by Portfolio Managers.
