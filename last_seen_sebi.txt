@@ -40,3 +40,6 @@ Oct 08, 2025::Review of Block Deal Framework
 Oct 13, 2025::Minimum information to be provided to the Audit Committee and Shareholders for approval of Related Party Transactions
 Oct 15, 2025::Relaxation in timeline for disclosure of allocation methodology by Angel Funds
 Oct 24, 2025::Transfer of portfolios of clients (PMS business) by Portfolio Managers.
+Oct 30, 2025::Implementation of eligibility criteria for derivatives on existing Non-Benchmark Indices.
+Oct 30, 2025::Ease of doing business – Interim arrangement for certified past performance of Investment Advisers and Research Analysts prior to operationalisation of Past Risk and Return Verification Agency (“PaRRVA”)
+Oct 30, 2025::Ease of doing business measures - Enabling Investment Advisers (“IAs”) to provide second opinion to clients on assets under pre-existing distribution arrangement
