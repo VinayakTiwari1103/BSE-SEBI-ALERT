@@ -83,3 +83,5 @@ Angel One Ltd::Oct 16, 12:19 - Angel One Ltd : Copy of Newspaper Publication
 Angel One Ltd::Oct 23, 17:30 - Angel One Ltd : Analysts/Institutional Investor Meet/Con. Call Updates
 Angel One Ltd::Oct 23, 17:23 - Angel One Ltd : Angel One Ltd - 543235 - Announcement under Regulation 30 (LODR)-Earnings Call Transcript
 Angel One Ltd::Oct 30, 15:59 - Angel One Ltd : Angel One Ltd - 543235 - Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS
+Angel One Ltd::Nov 03, 18:00 - Angel One Ltd : Angel One Ltd - 543235 - Intimation Of Grant Of Options Under Angel Broking Employee Long Term Incentive Plan 2021
+Angel One Ltd::Nov 03, 17:54 - Angel One Ltd : ESOP/ESOS/ESPS
