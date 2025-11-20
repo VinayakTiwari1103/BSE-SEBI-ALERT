@@ -94,3 +94,5 @@ Angel One Ltd::Nov 12, 16:11 - Angel One Ltd : Action(s) taken or orders passed
 Angel One Ltd::Nov 12, 16:08 - Angel One Ltd : Angel One Ltd - 543235 - Disclosure Under Regulation 30 Of The SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015 (\'\'Listing Regulations, 2015\'\')
 Angel One Ltd::Nov 17, 15:51 - Angel One Ltd : Change in Management
 Angel One Ltd::Nov 17, 15:45 - Angel One Ltd : Angel One Ltd - 543235 - Announcement under Regulation 30 (LODR)-Change in Management
+Angel One Ltd::Nov 19, 15:36 - Angel One Ltd : Analysts/Institutional Investor Meet/Con. Call Updates
+Angel One Ltd::Nov 19, 15:33 - Angel One Ltd : Angel One Ltd - 543235 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation
