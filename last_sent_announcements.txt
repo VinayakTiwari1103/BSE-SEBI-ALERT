@@ -96,3 +96,5 @@ Angel One Ltd::Nov 17, 15:51 - Angel One Ltd : Change in Management
 Angel One Ltd::Nov 17, 15:45 - Angel One Ltd : Angel One Ltd - 543235 - Announcement under Regulation 30 (LODR)-Change in Management
 Angel One Ltd::Nov 19, 15:36 - Angel One Ltd : Analysts/Institutional Investor Meet/Con. Call Updates
 Angel One Ltd::Nov 19, 15:33 - Angel One Ltd : Angel One Ltd - 543235 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation
+Angel One Ltd::Nov 27, 15:59 - Angel One Ltd : ESOP/ESOS/ESPS
+Angel One Ltd::Nov 27, 13:24 - Angel One Ltd : Angel One Ltd - 543235 - Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS
