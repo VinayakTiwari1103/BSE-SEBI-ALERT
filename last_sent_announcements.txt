@@ -98,3 +98,5 @@ Angel One Ltd::Nov 19, 15:36 - Angel One Ltd : Analysts/Institutional Investor M
 Angel One Ltd::Nov 19, 15:33 - Angel One Ltd : Angel One Ltd - 543235 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation
 Angel One Ltd::Nov 27, 15:59 - Angel One Ltd : ESOP/ESOS/ESPS
 Angel One Ltd::Nov 27, 13:24 - Angel One Ltd : Angel One Ltd - 543235 - Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS
+Angel One Ltd::Dec 03, 7:55 - Angel One Ltd : Monthly Business Updates
+Angel One Ltd::Dec 03, 7:51 - Angel One Ltd : Angel One Ltd - 543235 - Announcement under Regulation 30 (LODR)-Monthly Business Updates
