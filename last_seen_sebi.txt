@@ -49,3 +49,5 @@ Nov 25, 2025::Modifications to Chapter IV of the Master Circular for Debenture T
 Nov 25, 2025::Timeline for submission of information by the Issuer to the Debenture Trustee(s)
 Nov 27, 2025::Additional incentives to distributors for onboarding new individual investors from B-30 cities and women investors
 Nov 28, 2025::Reclassification of Real Estate Investment Trusts (REITs) as equity related instruments for facilitating enhanced participation by Mutual Funds and Specialized Investment Funds (SIFs)
+Dec 08, 2025::Modalities for migration to AI only schemes and relaxations to Large Value Funds for Accredited Investors under SEBI (Alternative Investment Funds) Regulations, 2012
+Dec 08, 2025::Clarification on the Digital Accessibility circulars of SEBI
