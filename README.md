@@ -129,8 +129,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [BSE India](https://www.bseindia.com/)
 - [SEBI India](https://www.sebi.gov.in/)
-- Open source community and contributors
+- Open source community
 
 ---
 
 *For questions, contact [VinayakTiwari1103](https://github.com/VinayakTiwari1103).*
+
