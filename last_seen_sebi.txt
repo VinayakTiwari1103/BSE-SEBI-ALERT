@@ -51,3 +51,4 @@ Nov 27, 2025::Additional incentives to distributors for onboarding new individua
 Nov 28, 2025::Reclassification of Real Estate Investment Trusts (REITs) as equity related instruments for facilitating enhanced participation by Mutual Funds and Specialized Investment Funds (SIFs)
 Dec 08, 2025::Modalities for migration to AI only schemes and relaxations to Large Value Funds for Accredited Investors under SEBI (Alternative Investment Funds) Regulations, 2012
 Dec 08, 2025::Clarification on the Digital Accessibility circulars of SEBI
+Dec 10, 2025::Relaxation on geo tagging requirement in India for NRIs while undertaking re-KYC
