@@ -54,3 +54,4 @@ Dec 08, 2025::Clarification on the Digital Accessibility circulars of SEBI
 Dec 10, 2025::Relaxation on geo tagging requirement in India for NRIs while undertaking re-KYC
 Dec 11, 2025::Deferment of timeline for implementation of Phase III of Nomination Circular dated January 10, 2025 read with Circular dated February 28, 2025 and July 30, 2025
 Dec 12, 2025::Provisions relating to Strengthening Governance of Market Infrastructure Institutions (MIIs)
+Dec 16, 2025::Mandating periodic disclosure requirements- Securitised Debt Instruments (SDIs)
