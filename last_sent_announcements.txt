@@ -106,3 +106,5 @@ Angel One Ltd::Dec 05, 20:47 - Angel One Ltd : Angel One Ltd - 543235 - Clarific
 Angel One Ltd::Dec 16, 17:18 - Angel One Ltd : Trading Window
 Angel One Ltd::Dec 16, 17:00 - Angel One Ltd : Angel One Ltd - 543235 - Closure of Trading Window
 Angel One Ltd::Dec 16, 16:57 - Angel One Ltd : Angel One Ltd - 543235 - Board Meeting Intimation for Board Meeting Intimation For Intimation Of Board Meeting To Be Held On Thursday January 15, 2026, Earnings Call With Analysts And Investors And Closure Of Trading Window.
+Angel One Ltd::Dec 23, 11:22 - Angel One Ltd : Updates
+Angel One Ltd::Dec 23, 11:18 - Angel One Ltd : Angel One Ltd - 543235 - Disclosure Under Regulation 30 Of The SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015.
