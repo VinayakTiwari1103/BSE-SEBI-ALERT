@@ -58,3 +58,4 @@ Dec 16, 2025::Mandating periodic disclosure requirements- Securitised Debt Instr
 Dec 18, 2025::Modification in the conditions specified for reduction in denomination of debt securities
 Dec 24, 2025::Ease of doing investment - Review of simplification of procedure and standardization of formats of documents for issuance of duplicate certificates
 Dec 24, 2025::Ease of investments and ease of doing business measures – enhancing the ‘Facility for Basic Services Demat Account (BSDA)’
+Dec 30, 2025::Certification requirement for Compliance Officers of Managers of AIFs
