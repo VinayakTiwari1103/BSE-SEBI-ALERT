@@ -110,3 +110,6 @@ Angel One Ltd::Dec 23, 11:22 - Angel One Ltd : Updates
 Angel One Ltd::Dec 23, 11:18 - Angel One Ltd : Angel One Ltd - 543235 - Disclosure Under Regulation 30 Of The SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015.
 Angel One Ltd::Dec 30, 15:55 - Angel One Ltd : ESOP/ESOS/ESPS
 Angel One Ltd::Dec 30, 15:42 - Angel One Ltd : Angel One Ltd - 543235 - Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS
+Angel One Ltd::Jan 05, 20:08 - Angel One Ltd : Press Release
+Angel One Ltd::Jan 05, 20:05 - Angel One Ltd : Angel One Ltd - 543235 - Announcement under Regulation 30 (LODR)-Press Release / Media Release
+Angel One Ltd::Jan 05, 10:53 - Angel One Ltd : Change in Management
