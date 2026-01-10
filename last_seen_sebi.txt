@@ -62,3 +62,5 @@ Dec 30, 2025::Certification requirement for Compliance Officers of Managers of A
 Jan 02, 2026::Specification of the consequential requirements with respect to Amendment of Securities and Exchange Board of India (Merchant Bankers) Regulations, 1992
 Jan 07, 2026::Extension of timeline for implementation of additional incentives structure for distributors for onboarding new individual investors from B-30 cities and women investors
 Jan 08, 2026::Compliance Reporting Formats for Specialized Investment Funds (SIFs)
+Jan 09, 2026::Review of Framework to address the ‘technical glitches’ in Stock Brokers’ Electronic Trading Systems
+Jan 09, 2026::Simplification of requirements for grant of accreditation to investors
