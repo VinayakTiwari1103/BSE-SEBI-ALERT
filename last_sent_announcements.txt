@@ -119,3 +119,6 @@ Angel One Ltd::Jan 06, 13:11 - Angel One Ltd : Certificate under SEBI (Depositor
 Angel One Ltd::Jan 08, 7:49 - Angel One Ltd : Monthly Business Updates
 Angel One Ltd::Jan 08, 7:48 - Angel One Ltd : Angel One Ltd - 543235 - Announcement under Regulation 30 (LODR)-Monthly Business Updates
 Angel One Ltd::Jan 07, 19:56 - Angel One Ltd : Angel One Ltd - 543235 - Corporate Action-Board to consider Dividend
+Angel One Ltd::Jan 15, 18:57 - Angel One Ltd : Investor Presentation
+Angel One Ltd::Jan 15, 18:53 - Angel One Ltd : Angel One Ltd - 543235 - Announcement under Regulation 30 (LODR)-Press Release / Media Release
+Angel One Ltd::Jan 15, 18:51 - Angel One Ltd : Angel One Ltd - 543235 - Announcement under Regulation 30 (LODR)-Investor Presentation
