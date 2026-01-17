@@ -122,3 +122,6 @@ Angel One Ltd::Jan 07, 19:56 - Angel One Ltd : Angel One Ltd - 543235 - Corporat
 Angel One Ltd::Jan 15, 18:57 - Angel One Ltd : Investor Presentation
 Angel One Ltd::Jan 15, 18:53 - Angel One Ltd : Angel One Ltd - 543235 - Announcement under Regulation 30 (LODR)-Press Release / Media Release
 Angel One Ltd::Jan 15, 18:51 - Angel One Ltd : Angel One Ltd - 543235 - Announcement under Regulation 30 (LODR)-Investor Presentation
+Angel One Ltd::Jan 16, 17:56 - Angel One Ltd : Analysts/Institutional Investor Meet/Con. Call Updates
+Angel One Ltd::Jan 16, 17:47 - Angel One Ltd : Angel One Ltd - 543235 - Announcement under Regulation 30 (LODR)-Earnings Call Transcript
+Angel One Ltd::Jan 16, 12:42 - Angel One Ltd : Copy of Newspaper Publication
