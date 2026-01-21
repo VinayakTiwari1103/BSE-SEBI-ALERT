@@ -127,3 +127,5 @@ Angel One Ltd::Jan 16, 17:47 - Angel One Ltd : Angel One Ltd - 543235 - Announce
 Angel One Ltd::Jan 16, 12:42 - Angel One Ltd : Copy of Newspaper Publication
 Angel One Ltd::Jan 19, 19:19 - Angel One Ltd : Shareholders meeting
 Angel One Ltd::Jan 19, 19:13 - Angel One Ltd : Angel One Ltd - 543235 - Shareholder Meeting / Postal Ballot-Notice of Postal Ballot
+Angel One Ltd::Jan 20, 12:46 - Angel One Ltd : General Updates
+Angel One Ltd::Jan 20, 12:26 - Angel One Ltd : Angel One Ltd - 543235 - Announcement under Regulation 30 (LODR)-Newspaper Publication
