@@ -67,3 +67,5 @@ Jan 09, 2026::Simplification of requirements for grant of accreditation to inves
 Jan 16, 2026::Introduction of Closing Auction Session (CAS) in the Equity Cash Segment and certain modifications in the Pre-Open Auction Session
 Jan 16, 2026::Single Window Automatic and Generalised Access for Trusted Foreign Investors (SWAGAT-FI)” framework for FPIs and FVCIs
 Jan 16, 2026::Single Window Automatic and Generalised Access for Trusted Foreign Investors (SWAGAT-FI) framework for FPIs and FVCIs
+Jan 30, 2026::Ease of Doing Investment and Ease of Doing Business – Doing away with requirement of issuance of Letter of Confirmation (“LOC”) and to effect direct credit of securities in dematerialisation account of the investor
+Jan 30, 2026::Ease of Doing Investment – Special Window for Transfer and Dematerialisation of Physical Securities
