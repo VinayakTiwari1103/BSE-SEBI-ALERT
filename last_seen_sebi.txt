@@ -69,3 +69,4 @@ Jan 16, 2026::Single Window Automatic and Generalised Access for Trusted Foreign
 Jan 16, 2026::Single Window Automatic and Generalised Access for Trusted Foreign Investors (SWAGAT-FI) framework for FPIs and FVCIs
 Jan 30, 2026::Ease of Doing Investment and Ease of Doing Business – Doing away with requirement of issuance of Letter of Confirmation (“LOC”) and to effect direct credit of securities in dematerialisation account of the investor
 Jan 30, 2026::Ease of Doing Investment – Special Window for Transfer and Dematerialisation of Physical Securities
+Feb 04, 2026::Revision of Order-to-Trade Ratio (OTR) framework
