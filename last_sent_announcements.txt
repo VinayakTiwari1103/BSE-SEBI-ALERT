@@ -329,3 +329,21 @@ Alteration Of Capital and Fund Raising-XBRL
 ICICI Securities Ltd::ICICI Securities Ltd
 ICICI Securities Ltd - 541179 - Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS
  Mar 17, 14:43
+Angel One Ltd::Angel One Ltd
+Angel One Ltd - 543235 - Intimation Of Grant Of Options Under Angel Broking Employee Long Term Incentive Plan 2021
+ Feb 06, 19:10
+Angel One Ltd::Angel One Ltd
+Angel One Ltd - 543235 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation
+ Feb 06, 19:05
+Angel One Ltd::Angel One Ltd
+Angel One Ltd - 543235 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation
+ Feb 06, 18:58
+ICICI Securities Ltd::ICICI Securities Ltd
+Alteration Of Capital and Fund Raising-XBRL
+ Mar 17, 14:57
+ICICI Securities Ltd::ICICI Securities Ltd
+Alteration Of Capital and Fund Raising-XBRL
+ Mar 17, 14:57
+ICICI Securities Ltd::ICICI Securities Ltd
+ICICI Securities Ltd - 541179 - Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS
+ Mar 17, 14:43
