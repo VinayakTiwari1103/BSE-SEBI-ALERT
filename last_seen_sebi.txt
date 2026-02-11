@@ -73,3 +73,4 @@ Feb 04, 2026::Revision of Order-to-Trade Ratio (OTR) framework
 Feb 05, 2026::Creation/Invocation of pledge of securities through depository system.
 Feb 05, 2026::Review of Calendar Spread margin benefit in Single stock derivatives on expiry day
 Feb 06, 2026::Reporting of value of units of Alternative Investment Funds (AIFs) to Depositories
+Feb 10, 2026::Obligations on CRAs while undertaking rating of financial instruments falling under the purview of any other Financial Sector Regulator
