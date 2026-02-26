@@ -76,3 +76,4 @@ Feb 06, 2026::Reporting of value of units of Alternative Investment Funds (AIFs)
 Feb 10, 2026::Obligations on CRAs while undertaking rating of financial instruments falling under the purview of any other Financial Sector Regulator
 Feb 11, 2026::Capacity Planning and Real Time Performance Monitoring framework for Commodity Derivatives Segment of Market Infrastructure Institutions (MIIs)
 Feb 17, 2026::Circular on Forms for registration of stock brokers and clearing members
+Feb 26, 2026::Categorization and Rationalization of Mutual Fund Schemes
