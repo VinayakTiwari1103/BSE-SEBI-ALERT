@@ -82,3 +82,4 @@ Feb 26, 2026::Valuation of physical Gold and Silver held by mutual fund schemes
 Feb 27, 2026::Revised Norms for appointment of an independent third-party reviewer/ certifier for green debt security
 Mar 04, 2026::Regulatory Reporting by AIFs
 Mar 04, 2026::Guidelines for Custodians
+Mar 06, 2026::Introduction of Voluntary Lock-in / Debit freeze facility to Mutual Fund folios
