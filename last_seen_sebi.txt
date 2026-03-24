@@ -86,3 +86,4 @@ Mar 06, 2026::Introduction of Voluntary Lock-in / Debit freeze facility to Mutua
 Mar 11, 2026::Ease of Doing Business – Relaxation in certification requirement for Persons Associated with Research Services (PARS) – Sales and other non-core services
 Mar 13, 2026::Borrowing by Mutual Funds
 Mar 16, 2026::Review of Coverage of Settlement Guarantee Fund for Commodity Derivatives Segment
+Mar 23, 2026::Ease of doing business measures - Relaxations in certain reporting requirements for certain Stock Brokers and doing away with the requirement of reporting of demat account
