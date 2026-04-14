@@ -93,3 +93,4 @@ Mar 25, 2026::Addendum to SEBI Circular on Borrowing by Mutual Funds
 Apr 07, 2026::Relaxation from the applicability of SEBI Master Circular for compliance with the provisions of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 on non-compliance with the Minimum Public Shareholding (MPS) requirements
 Apr 07, 2026::One-time relaxation with respect to validity of SEBI Observations
 Apr 08, 2026::Ease of doing business - mechanism for lock-in of pledged shares under SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2018
+Apr 13, 2026::NISM Certification for Social Impact Assessors
