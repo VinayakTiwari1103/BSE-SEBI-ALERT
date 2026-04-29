@@ -96,3 +96,4 @@ Apr 08, 2026::Ease of doing business - mechanism for lock-in of pledged shares u
 Apr 13, 2026::NISM Certification for Social Impact Assessors
 Apr 15, 2026::Review of requirement relating to registration for a Not for Profit Organization on Social Stock Exchange and minimum subscription requirement for issuance of Zero Coupon Zero Principal Instruments
 Apr 24, 2026::Framework for net settlement of funds for transactions done by Foreign Portfolio Investors (FPIs) in cash market
+Apr 28, 2026::Extension of timeline for compliance with terms and conditions by Debenture Trustees for carrying out activities outside the purview of SEBI
