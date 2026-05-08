@@ -101,3 +101,4 @@ Apr 29, 2026::Operationalisation of Past Risk and Return Verification Agency (�
 Apr 30, 2026::Fast-Track Mechanism for Processing of Placement Memorandum of AIFs filed with SEBI
 May 05, 2026::‘Significant Indices’ under SEBI (Index Providers) Regulations, 2024
 May 05, 2026::Advisory on Emerging Advanced Artificial Intelligence (AI) Tools for Vulnerability Detection
+May 07, 2026::Discontinuation of Investor Risk Reduction Access (IRRA) platform
