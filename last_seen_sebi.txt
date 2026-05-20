@@ -105,3 +105,4 @@ May 07, 2026::Discontinuation of Investor Risk Reduction Access (IRRA) platform
 May 08, 2026::Norms for sharing and usage of price data for educational purposes
 May 15, 2026::Status of SPVs post conclusion or termination of Concession Agreement
 May 15, 2026::Permitted use of fresh borrowings for InvITs where Net Borrowings exceeds forty-nine percent of the value of InvIT assets
+May 19, 2026::Revision of Monthly Cumulative Report (MCR) Format
