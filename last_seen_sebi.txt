@@ -108,3 +108,4 @@ May 15, 2026::Permitted use of fresh borrowings for InvITs where Net Borrowings 
 May 19, 2026::Revision of Monthly Cumulative Report (MCR) Format
 May 29, 2026::Ease of doing investments - Modified Norms for Nomination in Demat Accounts and Mutual Fund Folios
 Jun 11, 2026::Extension of timelines for compliance with certain provisions of Circular dated January 02, 2026
+Jun 15, 2026::Norms for Base Price, Price Bands, Call Auction in pre-open session and Close-out procedure for Exchange Traded Funds (ETFs)
