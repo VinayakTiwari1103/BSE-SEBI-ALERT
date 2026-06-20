@@ -110,3 +110,4 @@ May 29, 2026::Ease of doing investments - Modified Norms for Nomination in Demat
 Jun 11, 2026::Extension of timelines for compliance with certain provisions of Circular dated January 02, 2026
 Jun 15, 2026::Norms for Base Price, Price Bands, Call Auction in pre-open session and Close-out procedure for Exchange Traded Funds (ETFs)
 Jun 16, 2026::Guidelines for winding up of AIFs with respect to retention of proceeds and ‘Inoperative Fund’ status
+Jun 19, 2026::Clarification with respect to applicability of the benefit of early pay-in in Commodity Derivatives Segment
