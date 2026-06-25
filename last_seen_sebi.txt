@@ -111,3 +111,4 @@ Jun 11, 2026::Extension of timelines for compliance with certain provisions of C
 Jun 15, 2026::Norms for Base Price, Price Bands, Call Auction in pre-open session and Close-out procedure for Exchange Traded Funds (ETFs)
 Jun 16, 2026::Guidelines for winding up of AIFs with respect to retention of proceeds and ‘Inoperative Fund’ status
 Jun 19, 2026::Clarification with respect to applicability of the benefit of early pay-in in Commodity Derivatives Segment
+Jun 24, 2026::Ease of Doing Business – Relaxation in certification requirement for Persons Associated with Investment Advice (PAIA) – Sales and other non-core services
