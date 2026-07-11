@@ -114,3 +114,4 @@ Jun 19, 2026::Clarification with respect to applicability of the benefit of earl
 Jun 24, 2026::Ease of Doing Business – Relaxation in certification requirement for Persons Associated with Investment Advice (PAIA) – Sales and other non-core services
 Jul 03, 2026::Handling of Client’s Unpaid Securities by Trading Members
 Jul 07, 2026::Review of norms for utilization of interest or income from IPF of the Depositories
+Jul 10, 2026::Intraday borrowing facility availed by mutual funds
