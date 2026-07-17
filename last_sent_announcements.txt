@@ -1877,3 +1877,12 @@ ICICI Securities Ltd - 541179 - Intimation Of \'\'Record Date\'\' Under Regulati
 ICICI Securities Ltd::ICICI Securities Ltd
 ICICI Securities Ltd - 541179 - Disclosure Under Regulation 30 Of SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015
  Mar 10, 19:38
+ICICI Securities Ltd::ICICI Securities Ltd
+ICICI Securities Ltd - 541179 - Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS
+ Mar 17, 14:43
+ICICI Securities Ltd::ICICI Securities Ltd
+ICICI Securities Ltd - 541179 - Intimation Of \'\'Record Date\'\' Under Regulation 42 Of SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015
+ Mar 11, 11:15
+ICICI Securities Ltd::ICICI Securities Ltd
+ICICI Securities Ltd - 541179 - Disclosure Under Regulation 30 Of SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015
+ Mar 10, 19:38
