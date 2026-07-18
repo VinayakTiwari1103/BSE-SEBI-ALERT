@@ -115,3 +115,4 @@ Jun 24, 2026::Ease of Doing Business – Relaxation in certification requirement
 Jul 03, 2026::Handling of Client’s Unpaid Securities by Trading Members
 Jul 07, 2026::Review of norms for utilization of interest or income from IPF of the Depositories
 Jul 10, 2026::Intraday borrowing facility availed by mutual funds
+Jul 17, 2026::Extending facility of creating standing instructions for Systematic Withdrawal Plan (SWP)/ Systematic Transfer Plan (STP) for Mutual Fund units held in demat form
