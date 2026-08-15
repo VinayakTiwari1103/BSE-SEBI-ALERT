@@ -124,3 +124,5 @@ Jul 31, 2026::Extension of timelines with repect to compliance of Digital Access
 Aug 03, 2026::Extension of timeline for enrolment with PaRRVA as specified in SEBI Circular No. HO/38/14/(4)2026-MIRSD-POD/I/10557/2026 dated April 29, 2026
 Aug 11, 2026::Amendment to SEBI (Issue and Listing of Municipal Debt Securities) Regulations, 2015 (“ILMDS Regulations”)
 Aug 12, 2026::Review of Inclusion of Historical Scenarios in Stress Testing for Commodity Derivatives Segment
+Aug 14, 2026::Modification in the regulatory framework for Online Bond Platform Providers (OBPPs) including measures for promoting ease of doing business
+Aug 14, 2026::Framework for Calculation of Net Distributable Cash Flows for InvITs
