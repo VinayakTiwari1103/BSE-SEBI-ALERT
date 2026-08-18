@@ -126,3 +126,4 @@ Aug 11, 2026::Amendment to SEBI (Issue and Listing of Municipal Debt Securities)
 Aug 12, 2026::Review of Inclusion of Historical Scenarios in Stress Testing for Commodity Derivatives Segment
 Aug 14, 2026::Modification in the regulatory framework for Online Bond Platform Providers (OBPPs) including measures for promoting ease of doing business
 Aug 14, 2026::Framework for Calculation of Net Distributable Cash Flows for InvITs
+Aug 17, 2026::Revision of Application Form for Mutual Fund Registration
