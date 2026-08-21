@@ -127,3 +127,5 @@ Aug 12, 2026::Review of Inclusion of Historical Scenarios in Stress Testing for 
 Aug 14, 2026::Modification in the regulatory framework for Online Bond Platform Providers (OBPPs) including measures for promoting ease of doing business
 Aug 14, 2026::Framework for Calculation of Net Distributable Cash Flows for InvITs
 Aug 17, 2026::Revision of Application Form for Mutual Fund Registration
+Aug 20, 2026::Acceptance of digitally signed Power of Attorney from FPIs
+Aug 20, 2026::Enabling sharing of information by KYC Registration Agencies (KRAs) with entities regulated by International Financial Services Centres Authority
