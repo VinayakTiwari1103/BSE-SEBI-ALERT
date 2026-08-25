@@ -129,3 +129,5 @@ Aug 14, 2026::Framework for Calculation of Net Distributable Cash Flows for InvI
 Aug 17, 2026::Revision of Application Form for Mutual Fund Registration
 Aug 20, 2026::Acceptance of digitally signed Power of Attorney from FPIs
 Aug 20, 2026::Enabling sharing of information by KYC Registration Agencies (KRAs) with entities regulated by International Financial Services Centres Authority
+Aug 24, 2026::Alignment of SEBI's Cyber Incident Reporting Portal with FIRE Format
+Aug 24, 2026::IT Resilience Index for Market Infrastructure Institutions (MIIs)
