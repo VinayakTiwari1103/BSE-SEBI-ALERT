@@ -131,3 +131,4 @@ Aug 20, 2026::Acceptance of digitally signed Power of Attorney from FPIs
 Aug 20, 2026::Enabling sharing of information by KYC Registration Agencies (KRAs) with entities regulated by International Financial Services Centres Authority
 Aug 24, 2026::Alignment of SEBI's Cyber Incident Reporting Portal with FIRE Format
 Aug 24, 2026::IT Resilience Index for Market Infrastructure Institutions (MIIs)
+Aug 28, 2026::Extension of timeline for implementation of provisions of SEBI Circular dated June 15, 2026 on norms for base price, price bands, call auction in pre-open session and Close-out procedure for Exchange Traded Funds (ETFs)
