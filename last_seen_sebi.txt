@@ -136,3 +136,6 @@ Sep 07, 2026::Relaxation in timeline with respect to Accredited Investor mandate
 Sep 07, 2026::Ease of regulatory compliances for FPIs investing only in Government Securities
 Sep 09, 2026::Review of Position Limits for Clients and Penalty Provisions for Violation / Breach of Position Limits for Commodity Derivatives Segment
 Oct 01, 2026::Display of “investor awareness message(s)” by stock brokers on their trading apps and websites, under Project Jagrook
+Oct 07, 2026::Introduction of Credit Risk-o-Meter as an additional disclosure mechanism for debt securities
+Oct 07, 2026::Exemption from the requirement of mandatory merchant banker appointment for debt issued through private placement by certain listed issuers
+Oct 07, 2026::Review of provisions related to International Securities Identification Number (ISIN) for debt securities issued on private placement basis
