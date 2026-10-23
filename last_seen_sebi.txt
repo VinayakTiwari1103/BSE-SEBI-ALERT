@@ -140,3 +140,4 @@ Oct 07, 2026::Introduction of Credit Risk-o-Meter as an additional disclosure me
 Oct 07, 2026::Exemption from the requirement of mandatory merchant banker appointment for debt issued through private placement by certain listed issuers
 Oct 07, 2026::Review of provisions related to International Securities Identification Number (ISIN) for debt securities issued on private placement basis
 Oct 15, 2026::Review of certain aspects of the Closing Auction Session, market timings and settlement methodology for derivatives contracts
+Oct 22, 2026::Margin Waiver on Subsequent Buy/Sell Transactions Post Early Pay-In (EPI) in Cash Segment
