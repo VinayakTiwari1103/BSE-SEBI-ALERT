@@ -141,3 +141,4 @@ Oct 07, 2026::Exemption from the requirement of mandatory merchant banker appoin
 Oct 07, 2026::Review of provisions related to International Securities Identification Number (ISIN) for debt securities issued on private placement basis
 Oct 15, 2026::Review of certain aspects of the Closing Auction Session, market timings and settlement methodology for derivatives contracts
 Oct 22, 2026::Margin Waiver on Subsequent Buy/Sell Transactions Post Early Pay-In (EPI) in Cash Segment
+Oct 23, 2026::Review of regulatory requirement for maintenance of call records of institutional clients by Research Analysts or Research Entities
