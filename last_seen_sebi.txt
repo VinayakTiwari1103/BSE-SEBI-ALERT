@@ -143,3 +143,5 @@ Oct 15, 2026::Review of certain aspects of the Closing Auction Session, market t
 Oct 22, 2026::Margin Waiver on Subsequent Buy/Sell Transactions Post Early Pay-In (EPI) in Cash Segment
 Oct 23, 2026::Review of regulatory requirement for maintenance of call records of institutional clients by Research Analysts or Research Entities
 Oct 27, 2026::Extension of timeline for compliance with terms and conditions by Debenture Trustees (DTs) for carrying out activities outside the purview of SEBI
+Oct 30, 2026::Extension of timeline with respect to compliance of Digital Accessibility Circulars
+Oct 30, 2026::Rationalisation of periodicity of KYC review for FPIs
