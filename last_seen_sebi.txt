@@ -151,3 +151,4 @@ Nov 02, 2026::Cooling off period for offer for sale by Private listed InvITs
 Nov 05, 2026::Review of the framework for Accredited Investors
 Nov 05, 2026::Framework for net settlement of funds for transactions undertaken by mutual fund schemes in cash market
 Nov 05, 2026::Revision of limits relating to requirement of underlying exposure for currency derivatives contracts
+Nov 11, 2026::Reporting requirement under Foreign Account Tax Compliance Act (FATCA) and Common Reporting Standard (CRS) revised through Income-Tax Act, 2025 read with Income-Tax Rules, 2026
